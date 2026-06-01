@@ -81,7 +81,7 @@ health_prediction_app/
 
 ## Installation
 
-git clone https://github.com/your-username/health-prediction-app.git
+
 cd health-prediction-app
 ```
 
